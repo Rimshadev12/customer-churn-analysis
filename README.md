@@ -41,4 +41,4 @@ The goal is to identify **which customers are at risk of leaving** and uncover t
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/customer-churn-analysis.git
+   git clone https://github.com/Rimshadev12/customer-churn-analysis.git
